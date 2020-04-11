@@ -1,4 +1,4 @@
-<?php require "../app/function/pages.php";
+<?php require '/Users/rodrygo/documents/app/functions/pages.php';
 //chamando o arquivo
 ?>
 
