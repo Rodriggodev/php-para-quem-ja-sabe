@@ -1,0 +1,6 @@
+
+		var qualquercoisaElement = document.querySelector('#app');
+		qualquercoisaElement.appendChild(linkElement); 
+
+//addpendChild -> adiciona elemnto.
+//removeChild -> remove um elemento.
